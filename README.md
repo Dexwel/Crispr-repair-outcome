@@ -15,7 +15,7 @@ Docker image  was created for the picKle file and the that includes both your Ju
    Open a terminal and navigate to the directory where your `Dockerfile` is located. Run the following command to build the Docker image (replace `<image_name>` with a suitable name for your image):
 
    ```bash
-   docker build -t Crispr-repair-outcome .
+   docker build -t crispr-repair-outcome .
    ```
 
 3. **Tag the Docker image for GCR:**
