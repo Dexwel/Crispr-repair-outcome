@@ -1,6 +1,6 @@
 # Crispr-repair-outcome
 
-
+Full explanation to the model building, evaluation and preidction can be found in this hashnode blog: https://dexwel.hashnode.dev/crispr-repair-outcome-prediction
 
 DocKer documenation
 
