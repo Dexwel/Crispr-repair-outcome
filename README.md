@@ -2,7 +2,6 @@
 
 
 
-
 DocKer documenation
 
 Docker image  was created for the picKle file and the that includes both your Jupyter Notebook setup and the model files, and then push it to Google Container Registry (GCR), you can follow these steps:
