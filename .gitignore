@@ -1,2 +1,3 @@
-# Ignore Docker-related files
 Dockerfile
+.dockerignore
+/workspace/Crispr-repair-outcome/Dockerfile
